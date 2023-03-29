@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/56b02a89-72a3-410a-abdd-e31c0fa4be72/resourceGroups/demoG/providers/Microsoft.Web/sites/demoG1",
+  "appService.deploySubpath": "."
+}
